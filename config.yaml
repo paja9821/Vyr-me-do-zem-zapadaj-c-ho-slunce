@@ -1,0 +1,17 @@
+title: Vyrážíme do země zapadajícího slunce
+baseURL: https://github.com/paja9821/Vyr-me-do-zem-zapadaj-c-ho-slunce
+languageCode: cs-cz
+publishDir: public
+
+menu:
+  main:
+    - name: Homepage
+      url: /
+      weight: 10
+    - name: Archive
+      identifier: post
+      url: /post/
+      weight: 20
+
+
+
